@@ -8,12 +8,11 @@ This is an online game hosting website for tabletop games. You can post games an
 * GraphQL
 * Node.js
 * MongoDB
-* JWT authrntication 
+* JWT authentication 
 * Heroku 
 * Bootstrap 
 * HTML
 * Javascript
-* Bootstrap
 
 ## Contributors
 * Tyler

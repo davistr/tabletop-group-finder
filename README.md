@@ -1,5 +1,6 @@
 # Tabletop Group Finder
 
+
 ## Description
 
 This is an online game hosting website for tabletop games. You can post games and find games. You have to have an account with our website to be part of the games.
@@ -42,6 +43,21 @@ This project is licensed under the MIT license.
 - HTML
 - Javascript
 - Bootstrap
+
+## Summary 
+This is an online game hosting website for tabletop games. You can post games and find games. You have to have an account with our website to be part of the games. 
+
+## Built With 
+* React.js
+* GraphQL
+* Node.js
+* MongoDB
+* JWT authentication 
+* Heroku 
+* Bootstrap 
+* HTML
+* Javascript
+
 
 ## Contributors
 
